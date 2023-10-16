@@ -11,9 +11,13 @@ The sales Prediction Dataset consists of 200+ records of three different adverti
 To run this code in this repository, you would require 
 
 ~ Python 3.x
+
 ~numpy
+
 ~pandas
+
 ~matplotlib
+
 ~seaborn
 
 
